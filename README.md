@@ -1,2 +1,2 @@
-# viktor
-i'm a germann coder. I like python.
+# artificial intelligence github
+In build...
